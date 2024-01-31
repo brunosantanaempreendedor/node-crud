@@ -16,7 +16,7 @@ This is a simple CRUD API built with Node.js and Sequelize, designed for basic p
 2. Navigate to the project folder:
 
    ```bash
-   cd simple-node-crud
+   cd node-crud
    ```
 
 3. Install dependencies:
